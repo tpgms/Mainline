@@ -20,7 +20,7 @@ public class RPNCalculator {
 	}
 
 	public void setRpnSplitArray(String rpnExpression) {
-		this.rpnSplitArray = rpnExpression.split(",")
+		this.rpnSplitArray = rpnExpression.split(","
 	}
 
 	public String calculateSum(String rpnExpression) {
